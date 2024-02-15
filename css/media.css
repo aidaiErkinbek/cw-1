@@ -1,0 +1,23 @@
+@media screen and (max-width: 1300px) {
+	.container{
+		max-width: 960px;
+	}
+}
+@media screen and (max-width: 990px) {
+	.container{
+		max-width: 750px;
+	}
+}
+@media screen and (max-width: 780px) {
+	.container{
+		max-width: 510px;
+
+	}
+
+	.teapot_img{
+		background:url(../img/teapot-1-1.jpg);
+	}
+}
+.teapot_txt{
+	
+}
